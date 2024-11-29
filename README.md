@@ -1,10 +1,13 @@
 Loja de Eletrônicos
+
 Sistema para vendas de eletrônicos, incluindo celulares, notebooks, entre outros. Este projeto integra o framework Django com Frontend (HTML, CSS, JavaScript) e Banco de Dados para oferecer uma solução prática e eficiente para a venda de eletrônicos online.
 
 Introdução
+
 Este sistema foi desenvolvido para facilitar a venda de eletrônicos de forma online. O objetivo principal é proporcionar uma experiência de compra simples e sem complicações para o usuário final, com funcionalidades voltadas para:
 
 Cadastro de clientes
+
 Cadastro de vendedores
 Realização de vendas
 Emissão de relatórios
@@ -12,6 +15,7 @@ Controle de estoque
 Além disso, o projeto envolve o uso de tecnologias como Django, HTML, CSS, JavaScript e Python, e permitiu o aprimoramento de nossas soft skills, trabalho em equipe e gerenciamento de tempo.
 
 Funcionalidades
+
 O sistema oferece as seguintes funcionalidades:
 
 Cadastro de Clientes: Permite o cadastro de informações de clientes para realizar compras.
