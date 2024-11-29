@@ -106,11 +106,11 @@ AUTORES
 
 Este projeto foi desenvolvido por:
 
-Caio F Sousa Pedrosa de Albuquerque
+- Caio F Sousa Pedrosa de Albuquerque
 
-Pedro Henrique Nascimento
+- Pedro Henrique Nascimento
 
-Pedro Davi de Souza Monteiro
+- Pedro Davi de Souza Monteiro
 
 
 LICENÇA
