@@ -54,7 +54,7 @@ Clone o repositório do GitHub para sua máquina:
 
 bash
 Copiar código
-git clone https://github.com/caioziin/estoque.git
+git clone (https://github.com/caioziin/projetoExtensao.git)
 
 3. Instalar Dependências
    
