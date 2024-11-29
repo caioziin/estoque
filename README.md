@@ -81,26 +81,12 @@ http://127.0.0.1:8000/admin/
 
 Aqui você pode gerenciar os dados do sistema (clientes, vendedores, vendas, etc.). Para entrar, use as credenciais do superusuário que você criou durante o processo.
 
-Estrutura do Projeto
-O projeto está organizado da seguinte maneira:
-
-bash
-Copiar código
-/estoque
-  ├── /estoque      # Diretório da aplicação Django
-  ├── /templates     # Arquivos HTML
-  ├── /static        # Arquivos CSS e JavaScript
-  ├── manage.py      # Script principal para rodar o Django
-  └── requirements.txt # Dependências do projeto
-
 AUTORES
 
 Este projeto foi desenvolvido por:
 
 Caio F Sousa Pedrosa de Albuquerque
-
 Pedro Henrique Nascimento
-
 Pedro Davi de Souza Monteiro
 
 LICENÇA
