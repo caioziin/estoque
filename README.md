@@ -125,8 +125,13 @@ MELHORIAS POSSIVEIS
 Este projeto pode ser expandido de diversas maneiras, incluindo:
 
 Implementação de um sistema de pagamento.
+
 Melhoria na interface de usuário (UI/UX).
+
 Integração com sistemas de envio e rastreamento de pedidos.
+
 Links Úteis
+
 Protótipo do Projeto
+
 Pauta das Reuniões
